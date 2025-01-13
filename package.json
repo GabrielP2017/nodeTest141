@@ -1,0 +1,17 @@
+{
+  "name": "node_init",
+  "version": "1.0.0",
+  "description": "npm init을 함으로써 패키지가 생성됨.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+    }
+}
